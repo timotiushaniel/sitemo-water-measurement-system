@@ -2,6 +2,8 @@
 This is a college project to make an IoT simple project. This is a water measurement system by using NodeMCU, Blynk, and Telegram Bot.
 The user will receive the notification via Telegram Bot and the user can check the real-time status by using Blynk app.
 
+Demonstration Video: https://youtu.be/KoHBX3HOHEQ
+
 Water Measurement Documentation
 
 Ultrasonic Sensor:
